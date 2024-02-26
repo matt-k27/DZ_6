@@ -1,4 +1,4 @@
-print('DZ5')
+print('DZ6')
 
 originalList = [12, 3, 4, 10, 8]
 
